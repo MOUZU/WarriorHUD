@@ -1,0 +1,19 @@
+## Interface: 11200
+## Title: |cff8f4108Warrior|r HUD
+## Version: 2.2
+## Notes: a HUD especially for Warriors. Displays the amount of rage,warrior cooldowns and alerts overpower usability.
+## Author: Virose(LYQ) @ Feenix(wow-one.com)
+
+## SavedVariablesPerCharacter: WHUD_VARS
+
+hud.lua
+
+modules\ragebar.lua
+modules\cooldowns.lua
+modules\overpower.lua
+modules\alerts.lua
+modules\glow.lua
+
+variables.lua
+commands.lua
+options.lua
